@@ -1,0 +1,103 @@
+# SAMPLE APP.
+# Copyright (C) 2018 Ηλιάδης Ηλίας
+# This file is distributed under the same license as the PACKAGE sampleapp.
+# FIRST AUTHOR <iliadis@kekbay.gr>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.0.12\n"
+"Report-Msgid-Bugs-To: iliadis@kekbay.gr\n"
+"POT-Creation-Date: 2018-02-28 09:09+0200\n"
+"PO-Revision-Date: 2018-02-28 10:00+0200\n"
+"Last-Translator: Ηλιάδης Ηλίας <iliadis@kekbay.gr>\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: start.py\n"
+"X-Poedit-SearchPath-1: mainwindow.glade\n"
+
+#: mainwindow.glade:51
+msgid "label for results"
+msgstr "ετικέτα για αποτελέσματα"
+
+#: mainwindow.glade:74
+msgid "number of arguments and parameters"
+msgstr "αριθμός παραμέτρων"
+
+#: mainwindow.glade:130
+msgid "command:"
+msgstr "εντολή:"
+
+#: mainwindow.glade:155
+msgid "start in directory:"
+msgstr "έναρξη από το φάκελο:"
+
+#: mainwindow.glade:261
+msgid "label for command"
+msgstr "ετικέτα για την εντολή"
+
+#: mainwindow.glade:362
+msgid "dummy label"
+msgstr "μούφα ετικέτα"
+
+#: mainwindow.glade:391
+msgid "label for version"
+msgstr "ετικέτα για την έκδοση"
+
+#: start.py:70
+msgid "Version:"
+msgstr "Έκδοση:"
+
+#: start.py:128
+msgid "Please choose a file"
+msgstr "Παρακαλώ διαλέξτε ένα αρχείο"
+
+#: start.py:154
+msgid "arg"
+msgstr "παραμ."
+
+#: start.py:172
+msgid "as is"
+msgstr "όπως είναι"
+
+#: start.py:175
+msgid "bash quoted"
+msgstr "με χαρακτήρες διαφυγής"
+
+#: start.py:178
+msgid "single quoted"
+msgstr "με μονά εισαγωγικά"
+
+#: start.py:181
+msgid "double quoted"
+msgstr "με διπλά εισαγωγικά"
+
+#: start.py:184
+msgid "param will be:"
+msgstr "Η παρά. θα είναι:"
+
+#: start.py:340
+msgid "All files"
+msgstr "Όλα τα αρχεία"
+
+#: start.py:345
+msgid "Video files"
+msgstr "Αρχεία βίντεο"
+
+#: start.py:375
+msgid "NOT YET!"
+msgstr "ΟΧΙ ΑΚΟΜΑ!"
+
+#: start.py:376
+msgid "Not yet implemented!"
+msgstr "Δεν έχει φτιαχτεί ακόμα!"
+
+# Added by hand. Name of the app.
+msgid "Sample app"
+msgstr "Ενδεικτική εφαρμογή"
